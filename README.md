@@ -1,4 +1,4 @@
 # Demo
 it's my first git repository
 <br>
-Author Zain mughal
+Author Zain Mughal (Pro)
